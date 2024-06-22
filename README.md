@@ -7,21 +7,6 @@
 
 ![](https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white) ![](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white) ![](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 
-# Endpoints:
-```
-GET /gastos: Devuelve todos los gastos almacenados en el archivo
-gastos.json.
-
-POST /gasto: Recibe el payload con los datos del gasto y los almacena.
-
-PUT /gasto: Recibe el payload de la consulta y modifica los datos
-almacenados en el servidor
-
-DELETE /gasto: Recibe el id del gasto la elimine del historial de gastos.
-
-GET /roommates: Devuelve todos los roommates almacenados en el servidor
-
-```
 
 ### Estructura de Carpetas
 ```
@@ -66,5 +51,6 @@ GET /roommates: Devuelve todos los roommates almacenados en el servidor
 
 ## Mantenedor de gastos.
 ![](https://raw.githubusercontent.com/VictorTapiaEgana/collageimagenes/master/github/collage.png)
+
 
 
